@@ -1,0 +1,3 @@
+{
+    "weather2019":[
+    {"temperature": 8, "date": "2019-11-29"}, {"temperature": 4, "date": "2019-11-11"}, {"temperature": 1, "date": "2019-11-02"}, {"temperature": 0, "date": "2019-10-02"}, {"temperature": 28, "date": "2019-09-09"}, {"temperature": 34, "date": "2019-08-29"}, {"temperature": 21, "date": "2019-05-17"}, {"temperature": 22, "date": "2019-05-10"}, {"temperature": 30, "date": "2019-04-23"}, {"temperature": 32, "date": "2019-04-16"}, {"temperature": 42, "date": "2019-01-10"}, {"temperature": 23, "date": "2019-01-03"}]}
